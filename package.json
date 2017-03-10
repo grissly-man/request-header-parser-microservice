@@ -1,0 +1,23 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "User can get the IP address, language and operating system for their browser.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/logandhi/request-header-parser-microservice.git"
+  },
+  "author": "Logan Griswold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logandhi/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/logandhi/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
