@@ -1,4 +1,4 @@
-Working demonstration: [https://www.freecodecamp.org/challenges/request-header-parser-microservice](https://www.freecodecamp.org/challenges/request-header-parser-microservice)
+Working demonstration: [https://header-parser-logan.herokuapp.com/](https://header-parser-logan.herokuapp.com/)
 
 ## FreeCodeCamp Instructions:
 1. **Objective:** Build a full stack JavaScript app that is functionally similar to this: [https://cryptic-ridge-9197.herokuapp.com/api/whoami/](https://cryptic-ridge-9197.herokuapp.com/api/whoami/) and deploy it to Heroku.
